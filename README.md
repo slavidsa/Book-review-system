@@ -46,7 +46,7 @@ JWT_SECRET=<secret_key> #This is generally a random long unpredictable string
 node server.js
 ```
 The server will start on:
-http://localhost:```<PORT>``` in this case http://localhost:3000 
+http://localhost::Port in this case http://localhost:3000 
 
 ## Example API Usage(Using Postman)
 
